@@ -1,7 +1,6 @@
 # Home
-Home
 
-![data](assets/db.png) This repository is a collection of PowerShell scripts and functions that I use to backup critical files and folders. 
+![data](16987.jpg) This repository is a collection of PowerShell scripts and functions that I use to backup critical files and folders. 
 You are welcome to use anything in this repository as reference material for your projects. However, everything is offered **as-is** with **no guarantees** that any of the material will work for you.
 
 You can read more about the code in these blog posts.
